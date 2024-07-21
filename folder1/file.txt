@@ -1,1 +1,21 @@
-helooooooooooooooooololololololo
+<?xml version="1.0" encoding="UTF-8"?>
+<OO:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:OO="OO" name="team 1">
+  <contents xsi:type="OO:Package" name="Education">
+    <contents xsi:type="OO:Class" name="teacher">
+      <features xsi:type="OO:Attribute" name="name"/>
+      <features xsi:type="OO:Attribute" name="faculty"/>
+      <features xsi:type="OO:Reference" name="have" type="//@contents.0/@contents.1"/>
+    </contents>
+    <contents xsi:type="OO:Class" name="student">
+      <features xsi:type="OO:Attribute" name="average"/>
+    </contents>
+    <contents xsi:type="OO:Class" name="course">
+      <features xsi:type="OO:Attribute" name="name"/>
+    </contents>
+  </contents>
+  <contents xsi:type="OO:Package" name="financial department">
+    <contents xsi:type="OO:Class" name="staff"/>
+    <contents xsi:type="OO:Class" name="storehouse"/>
+    <contents xsi:type="OO:Class" name="account"/>
+  </contents>
+</OO:Model>

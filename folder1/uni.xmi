@@ -14,7 +14,9 @@
     </contents>
   </contents>
   <contents xsi:type="OO:Package" name="financial department">
-    <contents xsi:type="OO:Class" name="staff"/>
+    <contents xsi:type="OO:Class" name="staff">
+      <features xsi:type="OO:Attribute" name="name"/>
+    </contents>
     <contents xsi:type="OO:Class" name="storehouse"/>
     <contents xsi:type="OO:Class" name="account"/>
   </contents>

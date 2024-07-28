@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="team 1" xmi:version="2.0">
-  <contents xsi:type="OO:Package" name="Education">
-    <contents xsi:type="OO:Class" name="course">
-      <features xsi:type="OO:Attribute" name="name"/>
-    </contents>
-  </contents>
-</OO:Model>

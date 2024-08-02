@@ -13,7 +13,7 @@
       <features xsi:type="OO:Attribute" name="name"/>
     </contents>
   </contents>
-  <contents xsi:type="OO:Package" name="financial department version3">
+  <contents xsi:type="OO:Package" name="financial department version2">
     <contents xsi:type="OO:Class" name="staff"/>
     <contents xsi:type="OO:Class" name="storehouse"/>
     <contents xsi:type="OO:Class" name="account"/>

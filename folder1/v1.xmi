@@ -3,5 +3,6 @@
   <contents xsi:type="OO:Package" name="Education">
     <contents xsi:type="OO:Class" name="teacher"/>
     <contents xsi:type="OO:Class" name="student"/>
+    <contents xsi:type="OO:Class" name="course"/>
   </contents>
 </OO:Model>

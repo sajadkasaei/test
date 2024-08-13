@@ -1,0 +1,21 @@
+Start_Deleted_Elements_Features_Versioning_System 
+Element =
+coursepackage=
+Education
+features=
+name,
+Element =
+nameowner=
+course
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0">
+  <ns0:Class xmlns:ns0="OO" name="course"/>
+  <ns0:Attribute xmlns:ns0="OO" name="name"/>
+</xmi:XMI>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

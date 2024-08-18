@@ -1,0 +1,12 @@
+Start_Deleted_Elements_Features_Versioning_System 
+Element=
+student
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" name="student uni" UUID_Versioning_System="d3eb5e89d9434dce9ca046cec9023a06" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" name="student" UUID_Versioning_System="376bebfdd74842428d3b0a7dd2672448" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

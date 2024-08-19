@@ -4,6 +4,5 @@
     <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="eb912f8615c34940a68bb5d93ffe3f42">
       <features xsi:type="OO:Attribute" name="teacherID" UUID_Versioning_System="8394ed9af7634dc08253e2b01e6da251"/>
     </contents>
-    <contents xsi:type="OO:Class" name="student uni" UUID_Versioning_System="26837748b9ca4ce1b096ba107b7732ba"/>
   </contents>
 </OO:Model>

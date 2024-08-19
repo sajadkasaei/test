@@ -1,0 +1,32 @@
+Start_Deleted_Elements_Features_Versioning_System 
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System
+Start_Deleted_Elements_Features_Versioning_System 
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System
+Start_Deleted_Elements_Features_Versioning_System 
+Element=
+26837748b9ca4ce1b096ba107b7732ba
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" name="student uni" UUID_Versioning_System="26837748b9ca4ce1b096ba107b7732ba" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

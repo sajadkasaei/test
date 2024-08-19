@@ -5,5 +5,6 @@
       <features xsi:type="OO:Attribute" name="name" UUID_Versioning_System="5319e5a2bf9d432ea6976501c033f6b2"/>
     </contents>
     <contents xsi:type="OO:Class" name="course" UUID_Versioning_System="73f717823619449481c7fb02b2352b2f"/>
+    <contents xsi:type="OO:Class" name="std" UUID_Versioning_System="89a02eb2402044f2bd31c0ead730623f"/>
   </contents>
 </OO:Model>

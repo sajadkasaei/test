@@ -3,5 +3,7 @@
   <contents xsi:type="OO:Package" name="Education" UUID_Versioning_System="2d532f24599f455fad5e24d27f6f7544">
     <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="e92e5b01d6de40b68da8edc93addf5dd"/>
     <contents xsi:type="OO:Class" name="course" UUID_Versioning_System="382d19fb2bf64bd988a50dcb36f72031"/>
+    <contents xsi:type="OO:Class" name="hooo" UUID_Versioning_System="da998f4cf2ec4326ad045c7f4c00c1a7"/>
+    <contents xsi:type="OO:Class" name="mooo" UUID_Versioning_System="f4ebadfcf3a745a8a5280e42083d3c6d"/>
   </contents>
 </OO:Model>

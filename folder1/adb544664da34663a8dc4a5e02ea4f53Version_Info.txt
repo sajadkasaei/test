@@ -1,0 +1,14 @@
+Start_Deleted_Elements_Features_Versioning_System 
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0">
+  <ns0:Class xmlns:ns0="OO" name="hooo" UUID_Versioning_System="da998f4cf2ec4326ad045c7f4c00c1a7"/>
+  <ns0:Class xmlns:ns0="OO" name="mooo" UUID_Versioning_System="f4ebadfcf3a745a8a5280e42083d3c6d"/>
+</xmi:XMI>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

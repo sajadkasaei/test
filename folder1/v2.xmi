@@ -2,6 +2,6 @@
 <OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="team 1" xmi:version="2.0">
   <contents xsi:type="OO:Package" name="Education" UUID_Versioning_System="2d532f24599f455fad5e24d27f6f7544">
     <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="e92e5b01d6de40b68da8edc93addf5dd"/>
-    <contents xsi:type="OO:Class" name="student" UUID_Versioning_System="f121c918539f4234b6e5f32d00100c94"/>
+    <contents xsi:type="OO:Class" name="course" UUID_Versioning_System="382d19fb2bf64bd988a50dcb36f72031"/>
   </contents>
 </OO:Model>

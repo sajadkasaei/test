@@ -4,6 +4,7 @@
     <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="7d6d5d37e70b4cf291b28b86a3bff02f">
       <features xsi:type="OO:Attribute" name="name" UUID_Versioning_System="5319e5a2bf9d432ea6976501c033f6b2"/>
     </contents>
-    <contents xsi:type="OO:Class" name="std" UUID_Versioning_System="99ff1798e03e4504a3009b962a496121"/>
+    <contents xsi:type="OO:Class" name="course" isAbstract="true" UUID_Versioning_System="73f717823619449481c7fb02b2352b2f" package="//@contents.0" extends="//@contents.0/@contents.0" extendedBy="//@contents.0/@contents.0 //@contents.0/@contents.1 //@contents.0/@contents.2"/>
+    <contents xsi:type="OO:Class" name="std" UUID_Versioning_System="ef2cd092132a48e5ac4f43337137219d"/>
   </contents>
 </OO:Model>

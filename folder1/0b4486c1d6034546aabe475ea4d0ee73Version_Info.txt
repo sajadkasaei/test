@@ -1,0 +1,19 @@
+Start_Deleted_Elements_Features_Versioning_System 
+ca11839c88cc4041b9d3aaac48f9335e::3b4d1823e79b4ea2be016102a61a65a6::f0468c7383184d3ebb656661085cb8b9::
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0">
+  <ns0:Class xmlns:ns0="OO" name="yyy" UUID_Versioning_System="631aa7a51dd04c5e9a29c4d570fa61a1"/>
+  <ns0:Class xmlns:ns0="OO" name="ttt" UUID_Versioning_System="3a50d1dcd8bb4f02ade69699d6076a24"/>
+  <ns0:Class xmlns:ns0="OO" name="sajad" UUID_Versioning_System="2185812f2260472689e3aa15f08b29bf"/>
+</xmi:XMI>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+<?xml version='1.0' encoding='UTF-8'?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmi:version="2.0">
+  <ns0:Class xmlns:ns0="OO" name="yyy" UUID_Versioning_System="ca11839c88cc4041b9d3aaac48f9335e"/>
+  <ns0:Class xmlns:ns0="OO" name="ttt" UUID_Versioning_System="3b4d1823e79b4ea2be016102a61a65a6"/>
+  <ns0:Class xmlns:ns0="OO" name="sajad" UUID_Versioning_System="f0468c7383184d3ebb656661085cb8b9"/>
+</xmi:XMI>
+End_Deleted_Elements_Versioning_System

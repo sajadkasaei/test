@@ -5,7 +5,11 @@
     <contents xsi:type="OO:Class" name="course" UUID_Versioning_System="382d19fb2bf64bd988a50dcb36f72031"/>
     <contents xsi:type="OO:Class" name="hooo" UUID_Versioning_System="da998f4cf2ec4326ad045c7f4c00c1a7"/>
     <contents xsi:type="OO:Class" name="mooo" UUID_Versioning_System="f4ebadfcf3a745a8a5280e42083d3c6d"/>
-    <contents xsi:type="OO:Class" name="sajad" UUID_Versioning_System="beb3629f1e3b4139bbc7847063b46e0b"/>
-    <contents xsi:type="OO:Class" name="ali" UUID_Versioning_System="0a46e0a494094bb2ba5c9f97fd4e6077"/>
+    <contents xsi:type="OO:Class" name="sajad" UUID_Versioning_System="44d972c315114d97a642a1e003120d24"/>
+    <contents xsi:type="OO:Class" name="ali" UUID_Versioning_System="7c9ec45ee53c4e65bf36d54fe4944da4"/>
+    <contents xsi:type="OO:Class" name="gholi" UUID_Versioning_System="b170021da36a41658960b238dd1c1b4d">
+      <features xsi:type="OO:Attribute" name="ggg" UUID_Versioning_System="14ed51910f8744db8c57876a19887cdf"/>
+    </contents>
+    <contents xsi:type="OO:Class" name="taghi" UUID_Versioning_System="c5f7752efda04bb1800d69c078b384c4"/>
   </contents>
 </OO:Model>

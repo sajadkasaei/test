@@ -3,8 +3,8 @@
   <contents xsi:type="OO:Package" name="Education" UUID_Versioning_System="e599cdeb03604def8eefe937611eef15">
     <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="5905237c245f4545a3500017d2130d3d"/>
     <contents xsi:type="OO:Class" name="student" UUID_Versioning_System="7b8aaa6a2625491c80f557834e666f42"/>
-    <contents xsi:type="OO:Class" name="yyy" UUID_Versioning_System="21fb9968870847b6bc4f6ae4cbd7f560"/>
-    <contents xsi:type="OO:Class" name="ttt" UUID_Versioning_System="de8c7644737746a48314f92e35c56cab"/>
-    <contents xsi:type="OO:Class" name="sajad" UUID_Versioning_System="a51a1d9646424dc9872eb471cdd24644"/>
+    <contents xsi:type="OO:Class" name="yyy" UUID_Versioning_System="cc5c90fe1edc4887b7fe9020c84634f0"/>
+    <contents xsi:type="OO:Class" name="ttt" UUID_Versioning_System="a1951e130c8e4ef7bd3c042d326a8776"/>
+    <contents xsi:type="OO:Class" name="sajad" UUID_Versioning_System="74a382da9cc1442c99c1dda0bf340d51"/>
   </contents>
 </OO:Model>

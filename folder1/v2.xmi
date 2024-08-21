@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="team 1" xmi:version="2.0">
+  <contents xsi:type="OO:Package" name="Education" UUID_Versioning_System="e599cdeb03604def8eefe937611eef15">
+    <contents xsi:type="OO:Class" name="teacher" UUID_Versioning_System="5905237c245f4545a3500017d2130d3d"/>
+    <contents xsi:type="OO:Class" name="student" UUID_Versioning_System="7b8aaa6a2625491c80f557834e666f42"/>
+    <contents xsi:type="OO:Class" name="yyy" UUID_Versioning_System="39bcee35591c45dc95e48fee67e58605"/>
+    <contents xsi:type="OO:Class" name="llllllmmmm" UUID_Versioning_System="56f6402144d34952964174825d51aec5">
+      <features xsi:type="OO:Attribute" name="ali" UUID_Versioning_System="e20fd37a37054adb82a4caac393c8f76"/>
+      <features xsi:type="OO:Attribute" name="naghi" UUID_Versioning_System="41071e2545ed4c7bbbb4fbd8efd51981"/>
+    </contents>
+  </contents>
+</OO:Model>

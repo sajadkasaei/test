@@ -1,0 +1,17 @@
+Start_Deleted_Elements_Features_Versioning_System 
+56f6402144d34952964174825d51aec5::features->e20fd37a37054adb82a4caac393c8f76-41071e2545ed4c7bbbb4fbd8efd51981-,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" name="kooooo" UUID_Versioning_System="2ff9a7edf0f5496bac2d9742963851eb" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="llllllmmmm" UUID_Versioning_System="56f6402144d34952964174825d51aec5" xmi:version="2.0">
+  <features xsi:type="OO:Attribute" name="ali" UUID_Versioning_System="e20fd37a37054adb82a4caac393c8f76"/>
+  <features xsi:type="OO:Attribute" name="naghi" UUID_Versioning_System="41071e2545ed4c7bbbb4fbd8efd51981"/>
+</OO:Class>
+End_Deleted_Elements_Versioning_System

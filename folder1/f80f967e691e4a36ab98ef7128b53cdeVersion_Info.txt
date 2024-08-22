@@ -1,0 +1,12 @@
+Start_Deleted_Elements_Features_Versioning_System 
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="jooo" UUID_Versioning_System="e1bfa699482e4029930febd7d2d6c15c" xmi:version="2.0">
+  <features xsi:type="OO:Attribute" name="nnmv" UUID_Versioning_System="f996ad613a1f4fd29b232b430fa7e03c"/>
+</OO:Class>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+End_Deleted_Elements_Versioning_System

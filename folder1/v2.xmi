@@ -5,5 +5,8 @@
     <contents xsi:type="OO:Class" name="student" UUID_Versioning_System="7b8aaa6a2625491c80f557834e666f42"/>
     <contents xsi:type="OO:Class" name="yyy" UUID_Versioning_System="39bcee35591c45dc95e48fee67e58605"/>
     <contents xsi:type="OO:Class" name="kooooo" UUID_Versioning_System="2ff9a7edf0f5496bac2d9742963851eb"/>
+    <contents xsi:type="OO:Class" name="jooo" UUID_Versioning_System="e1bfa699482e4029930febd7d2d6c15c">
+      <features xsi:type="OO:Attribute" name="nnmv" UUID_Versioning_System="f996ad613a1f4fd29b232b430fa7e03c"/>
+    </contents>
   </contents>
 </OO:Model>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="50a47358-17a7-4884-b8b1-02ad21c24406" xmi:version="2.0">
+  <contents xsi:type="OO:Package" xmi:id="5b61174b4ae1485283c73c46c2a8d038" name="Education">
+    <contents xsi:type="OO:Class" xmi:id="dbc304b6e4ac45f8bdf00ae6d6ae902e" name="teacher">
+      <features xsi:type="OO:Attribute" xmi:id="38d6a0a9dec6465face67e0d8076e50f" name="tName"/>
+    </contents>
+    <contents xsi:type="OO:Class" xmi:id="cfb7a10ec5dd4f99bcb9c6fc8b2e1f5c" name="student"/>
+  </contents>
+</OO:Model>

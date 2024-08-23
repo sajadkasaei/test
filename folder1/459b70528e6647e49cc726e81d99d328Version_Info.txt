@@ -1,0 +1,16 @@
+Start_Deleted_Elements_Features_Versioning_System 
+cfb7a10ec5dd4f99bcb9c6fc8b2e1f5c::package->5b61174b4ae1485283c73c46c2a8d038,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="course" xmi:version="2.0">
+  <features xsi:type="OO:Attribute" name="cName"/>
+</OO:Class>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" name="student" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

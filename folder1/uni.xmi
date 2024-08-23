@@ -4,6 +4,8 @@
     <contents xsi:type="OO:Class" xmi:id="dbc304b6e4ac45f8bdf00ae6d6ae902e" name="teacher">
       <features xsi:type="OO:Attribute" xmi:id="38d6a0a9dec6465face67e0d8076e50f" name="tName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="b66357be57b64112a77045a57bcd735a" name="student"/>
+    <contents xsi:type="OO:Class" xmi:id="771a0984365541e192ddf5f75c213652" name="course">
+      <features xsi:type="OO:Attribute" xmi:id="f5e087ab277f4cc083cbfe9183cfeb61" name="cName"/>
+    </contents>
   </contents>
 </OO:Model>

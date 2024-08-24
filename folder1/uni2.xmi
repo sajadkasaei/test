@@ -4,7 +4,7 @@
     <contents xsi:type="OO:Class" xmi:id="5a7556205f2f407eb21de7fe37679c7c" name="teacher">
       <features xsi:type="OO:Attribute" xmi:id="ac22d27681d742edb70786a3bcc0defa" name="tName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="d55b5a4999c040ef82e7d37179e5e4f7" name="course"/>
+    <contents xsi:type="OO:Class" xmi:id="3c475781c2ce482e90eb68dd9a0b015d" name="student"/>
   </contents>
   <contents xsi:type="OO:Package" xmi:id="924c8d43ae244b498dde226c3d9d324b" name="mm">
     <contents xsi:type="OO:Class" xmi:id="221c02e77b134395911e1f6bec0d2b13" name="jigili"/>

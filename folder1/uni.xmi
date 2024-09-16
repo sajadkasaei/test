@@ -5,6 +5,6 @@
       <features xsi:type="OO:Attribute" xmi:id="9bb569d47f93435ea2bfa9fdb2185222" name="tName"/>
       <features xsi:type="OO:Operation" xmi:id="3c8290c268a54ba6a5da3be8d3363c68" name="setName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="b588425d5fdf4ce39b0be17a1614bbe4" name="course"/>
+    <contents xsi:type="OO:Class" xmi:id="b588425d5fdf4ce39b0be17a1614bbe4" name="courseSa"/>
   </contents>
 </OO:Model>

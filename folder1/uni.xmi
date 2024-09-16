@@ -3,10 +3,9 @@
   <contents xsi:type="OO:Package" xmi:id="e834b9406e3d4d94b23e66016227d11e" name="Education">
     <contents xsi:type="OO:Class" xmi:id="880f583248bb4f32b9df040a4190b56c" name="teacher">
       <features xsi:type="OO:Attribute" xmi:id="c2d89f083dfb45a4aa6b0fdd3bab2e48" name="tName"/>
-      <features xsi:type="OO:Reference" xmi:id="76416378f88b45dca54e8e4b18df493b" name="has" type="ea4b8cf536c94a36a224f5ef6f16bc34"/>
+      <features xsi:type="OO:Reference" xmi:id="76416378f88b45dca54e8e4b18df493b" name="has"/>
       <features xsi:type="OO:Operation" xmi:id="1b1e1e3d507749e7ad407d8c29515145" name="setName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="ea4b8cf536c94a36a224f5ef6f16bc34" name="student"/>
     <contents xsi:type="OO:Class" xmi:id="9b45d0b2bcaa4a3d963d8b859069d88a" name="course"/>
   </contents>
 </OO:Model>

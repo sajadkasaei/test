@@ -1,0 +1,14 @@
+Start_Deleted_Elements_Features_Versioning_System 
+e80fb9be7e394c10acd0737b16ac2771::owner->880f583248bb4f32b9df040a4190b56c,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Operation xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="f95e20f363794fa8ad434ba7d1bfed58" name="setName" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Operation xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="e80fb9be7e394c10acd0737b16ac2771" name="setName" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

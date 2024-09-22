@@ -5,7 +5,7 @@
       <features xsi:type="OO:Attribute" xmi:id="c2d89f083dfb45a4aa6b0fdd3bab2e48" name="tName"/>
       <features xsi:type="OO:Operation" xmi:id="ca60edfd25f7440ab9a19daa7890db6a" name="setName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="9b45d0b2bcaa4a3d963d8b859069d88a" name="course" extendedBy="880f583248bb4f32b9df040a4190b56c e8559ba040244bb3a85813df8322973a"/>
-    <contents xsi:type="OO:Class" xmi:id="e8559ba040244bb3a85813df8322973a" name="student" extends="9b45d0b2bcaa4a3d963d8b859069d88a"/>
+    <contents xsi:type="OO:Class" xmi:id="9b45d0b2bcaa4a3d963d8b859069d88a" name="course" extendedBy="880f583248bb4f32b9df040a4190b56c"/>
+    <contents xsi:type="OO:Class" xmi:id="e8559ba040244bb3a85813df8322973a" name="student"/>
   </contents>
 </OO:Model>

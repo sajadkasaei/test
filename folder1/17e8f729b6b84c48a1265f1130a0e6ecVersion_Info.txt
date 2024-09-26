@@ -1,0 +1,18 @@
+Start_Updated_Elements_Features_Versioning_System
+common 880f583248bb4f32b9df040a4190b56c=name!teacher<-professor
+ADD 9b45d0b2bcaa4a3d963d8b859069d88a=features!add 7118d0c2b66c48dba60e1f837f20dc7a,
+End_Updated_Elements_Features_Versioning_System 
+Start_Deleted_Elements_Features_Versioning_System 
+e8559ba040244bb3a85813df8322973a::package->e834b9406e3d4d94b23e66016227d11e,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Attribute xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="7118d0c2b66c48dba60e1f837f20dc7a" name="cName" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="e8559ba040244bb3a85813df8322973a" name="student" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

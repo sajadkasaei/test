@@ -1,0 +1,20 @@
+Start_Updated_Elements_Features_Versioning_System
+ADD c29ae9b3f98c43b9b9c702ea51ea72d6=contents!7a636b1893734ea4aaf9e3d51b2a234a
+DEL 49a4c4c2797d4cc89f3e49bd1a3f37f8=extendedBy!3b85e59e79f7447da9289275dfbc9abf
+
+ADD 3b85e59e79f7447da9289275dfbc9abf=extends!7a636b1893734ea4aaf9e3d51b2a234a
+DEL 3b85e59e79f7447da9289275dfbc9abf=extends!49a4c4c2797d4cc89f3e49bd1a3f37f8
+End_Updated_Elements_Features_Versioning_System 
+Start_Deleted_Elements_Features_Versioning_System 
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="7a636b1893734ea4aaf9e3d51b2a234a" name="eeee" xmi:version="2.0">
+  <features xsi:type="OO:Attribute" xmi:id="9b04b0cc792d4a3fa5558077e584e561" name="yyyy"/>
+  <extendedBy href="C:/Users/Admin/Desktop/VSM/uni.xmi#3b85e59e79f7447da9289275dfbc9abf" xsi:type="OO:Class"/>
+</OO:Class>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+End_Deleted_Elements_Versioning_System

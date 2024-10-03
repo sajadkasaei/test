@@ -1,0 +1,18 @@
+Start_Updated_Elements_Features_Versioning_System
+ADD 49a4c4c2797d4cc89f3e49bd1a3f37f8=name!professortttttttt
+DEL 49a4c4c2797d4cc89f3e49bd1a3f37f8=name!professor
+ADD 49a4c4c2797d4cc89f3e49bd1a3f37f8=extendedBy!3b85e59e79f7447da9289275dfbc9abf
+
+ADD 3b85e59e79f7447da9289275dfbc9abf=extends!49a4c4c2797d4cc89f3e49bd1a3f37f8
+End_Updated_Elements_Features_Versioning_System 
+Start_Deleted_Elements_Features_Versioning_System 
+ebacee8092ef4264a4cf5e869924b982::owner->49a4c4c2797d4cc89f3e49bd1a3f37f8,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Operation xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="ebacee8092ef4264a4cf5e869924b982" name="setName" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

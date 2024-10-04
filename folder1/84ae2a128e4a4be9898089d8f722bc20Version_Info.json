@@ -1,0 +1,23 @@
+[
+    {
+        "UPDATE": []
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "41080255a51043ad963fdfe7dd8db8aa",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"41080255a51043ad963fdfe7dd8db8aa\" name=\"student\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "package",
+                        "feature_value": "c29ae9b3f98c43b9b9c702ea51ea72d6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    }
+]

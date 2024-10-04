@@ -1,0 +1,13 @@
+Start_Updated_Elements_Features_Versioning_System
+ADD c29ae9b3f98c43b9b9c702ea51ea72d6=contents!41080255a51043ad963fdfe7dd8db8aa
+End_Updated_Elements_Features_Versioning_System 
+Start_Deleted_Elements_Features_Versioning_System 
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="41080255a51043ad963fdfe7dd8db8aa" name="student" xmi:version="2.0"/>
+End_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+End_Deleted_Elements_Versioning_System

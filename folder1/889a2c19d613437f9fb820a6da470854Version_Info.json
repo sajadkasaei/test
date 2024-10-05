@@ -1,0 +1,52 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "49a4c4c2797d4cc89f3e49bd1a3f37f8",
+                "feature_name": "extends",
+                "feature_value": "3b85e59e79f7447da9289275dfbc9abf"
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "3b85e59e79f7447da9289275dfbc9abf",
+                "feature_name": "extendedBy",
+                "feature_value": [
+                    "49a4c4c2797d4cc89f3e49bd1a3f37f8",
+                    "656e37e6a8ad4d8d992e8784dd5b36af"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "656e37e6a8ad4d8d992e8784dd5b36af",
+                "feature_name": "extends",
+                "feature_value": "3b85e59e79f7447da9289275dfbc9abf"
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "656e37e6a8ad4d8d992e8784dd5b36af",
+                "feature_name": "extendedBy",
+                "feature_value": [
+                    "f60e79613a134d92abfe4a7ac7663a67"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "f60e79613a134d92abfe4a7ac7663a67",
+                "feature_name": "extends",
+                "feature_value": "656e37e6a8ad4d8d992e8784dd5b36af"
+            }
+        ]
+    },
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    }
+]

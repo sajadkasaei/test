@@ -1,0 +1,17 @@
+[
+    {
+        "UPDATE": []
+    },
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "942d67ba2619487987e89f469db5bb0e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Book:Chapter xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Book=\"http://book\" xmi:id=\"942d67ba2619487987e89f469db5bb0e\" title=\"twooooooo\" xmi:version=\"2.0\"/>\n"
+            }
+        ]
+    }
+]

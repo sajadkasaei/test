@@ -6,6 +6,5 @@
     </contents>
     <contents xsi:type="OO:Class" xmi:id="3b85e59e79f7447da9289275dfbc9abf" name="course" extendedBy="49a4c4c2797d4cc89f3e49bd1a3f37f8 656e37e6a8ad4d8d992e8784dd5b36af"/>
     <contents xsi:type="OO:Class" xmi:id="656e37e6a8ad4d8d992e8784dd5b36af" name="student" extends="3b85e59e79f7447da9289275dfbc9abf"/>
-    <contents xsi:type="OO:Class" xmi:id="f60e79613a134d92abfe4a7ac7663a67" name="test"/>
   </contents>
 </OO:Model>

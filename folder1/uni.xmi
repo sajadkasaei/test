@@ -2,7 +2,6 @@
 <Book:Book xmlns:xmi="http://www.omg.org/XMI" xmlns:Book="http://book" xmi:id="4c10f3d0-fe0f-408c-b1c4-844ebfbed05d" title="ATL in Depth" authorName="A. Tlanmod" xmi:version="2.0">
   <chapters xmi:id="f13f0f1554a14759b6846e0b2772a182" title="Introduction to ATL" nbPages="12"/>
   <chapters xmi:id="e0c9e263d6dc4f7daa49acfa70f65af1" title="An Example Transformation" nbPages="22"/>
-  <chapters xmi:id="86dad0ea14424f2188746e6567beea20" title="A Couple of Compilers" nbPages="57"/>
-  <chapters xmi:id="b49ba8908272450c99a623ff97bd883d" title="ATL Harder" nbPages="18"/>
-  <chapters xmi:id="6425cc8aa609475e9b26b70ea7a32575" title="Refrence" nbPages="4" bPage="98"/>
+  <chapters xmi:id="86dad0ea14424f2188746e6567beea20" title="A Couple of Compilersppppppppppp" nbPages="57"/>
+  <chapters xmi:id="069e1d004d3c403c8f8a6fc189177ebf" title="sajad"/>
 </Book:Book>

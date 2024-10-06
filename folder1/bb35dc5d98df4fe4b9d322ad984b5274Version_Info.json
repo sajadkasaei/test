@@ -1,0 +1,30 @@
+[
+    {
+        "UPDATE": []
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "514e4aff173c45e59bdaf4c625f005f0",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Book:Chapter xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Book=\"http://book\" xmi:id=\"514e4aff173c45e59bdaf4c625f005f0\" title=\"ATL Harder\" nbPages=\"18\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "c5ab7b38b00f47c292f4d1ea892b0eb8",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Book:Chapter xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Book=\"http://book\" xmi:id=\"c5ab7b38b00f47c292f4d1ea892b0eb8\" title=\"Refrence\" nbPages=\"4\" bPage=\"98\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "942d67ba2619487987e89f469db5bb0e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Book:Chapter xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Book=\"http://book\" xmi:id=\"942d67ba2619487987e89f469db5bb0e\" title=\"twooooooo\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": []
+    }
+]

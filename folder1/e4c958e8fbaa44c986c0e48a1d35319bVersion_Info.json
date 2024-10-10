@@ -1,0 +1,17 @@
+[
+    {
+        "UPDATE": []
+    },
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "98e36bb153d248288ba29a7ac7ce379e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"98e36bb153d248288ba29a7ac7ce379e\" name=\"Student\" xmi:version=\"2.0\"/>\n"
+            }
+        ]
+    }
+]

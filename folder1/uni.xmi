@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
-  <contents xsi:type="OO:Class" xmi:id="de77436e45b6473d90ce64ca00a5c90e" name="Teacher"/>
+  <contents xsi:type="OO:Class" xmi:id="de77436e45b6473d90ce64ca00a5c90e" name="Teacher">
+    <features xsi:type="OO:Reference" xmi:id="2a102c7f2387471fadcb3699d4efac7c" name="has" type="0c78c15e3bb74c74b5fec786f7f51c83"/>
+  </contents>
   <contents xsi:type="OO:Class" xmi:id="0c78c15e3bb74c74b5fec786f7f51c83" name="Student"/>
 </OO:Model>

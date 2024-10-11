@@ -1,0 +1,26 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "de77436e45b6473d90ce64ca00a5c90e",
+                "feature_name": "features",
+                "feature_value": [
+                    "2a102c7f2387471fadcb3699d4efac7c"
+                ]
+            }
+        ]
+    },
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "2a102c7f2387471fadcb3699d4efac7c"
+            }
+        ]
+    }
+]

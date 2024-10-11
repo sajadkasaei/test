@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
-  <contents xsi:type="OO:Class" xmi:id="ab14e5456ba94488b011d3a2cc3226ab" name="Circle">
-    <features xsi:type="OO:Operation" xmi:id="484cc12e4a0f4487b378928e8a341b08" name="draw"/>
+  <contents xsi:type="OO:Class" xmi:id="ab14e5456ba94488b011d3a2cc3226ab" name="Circle" extendedBy="2287010f972e4641b67ecd98ca781a8c"/>
+  <contents xsi:type="OO:Class" xmi:id="2287010f972e4641b67ecd98ca781a8c" name="Drawable" extends="ab14e5456ba94488b011d3a2cc3226ab">
+    <features xsi:type="OO:Operation" xmi:id="3637f83c47e2455b8f48920638bad178" name="drawYourself"/>
   </contents>
 </OO:Model>

@@ -1,0 +1,39 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "ab14e5456ba94488b011d3a2cc3226ab",
+                "feature_name": "extendedBy",
+                "feature_value": [
+                    "2287010f972e4641b67ecd98ca781a8c"
+                ]
+            }
+        ]
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "484cc12e4a0f4487b378928e8a341b08",
+                "container_id": "ab14e5456ba94488b011d3a2cc3226ab",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Operation xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"484cc12e4a0f4487b378928e8a341b08\" name=\"draw\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "ab14e5456ba94488b011d3a2cc3226ab"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "2287010f972e4641b67ecd98ca781a8c"
+            }
+        ]
+    }
+]

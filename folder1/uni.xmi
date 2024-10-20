@@ -2,6 +2,6 @@
 <OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
   <contents xsi:type="OO:Class" xmi:id="a442dab5b3ca4f7baf734849eea9e338" name="Teacher">
     <features xsi:type="OO:Attribute" xmi:id="13a85250b5fa4e61b1f4a9ad528b425f" name="name"/>
-    <features xsi:type="OO:Attribute" xmi:id="98b24dea378f4ef6b5916d3af6a6522a" name="birthday"/>
+    <features xsi:type="OO:Attribute" xmi:id="98b24dea378f4ef6b5916d3af6a6522a" name="dateOfBirth"/>
   </contents>
 </OO:Model>

@@ -1,0 +1,17 @@
+Start_Updated_Elements_Features_Versioning_System
+ADD a442dab5b3ca4f7baf734849eea9e338=features!c73f2179e21144db8f3b7891d731eab2
+ADD 8dff242e3a73444391638b74b03e3944=name!hasStudent
+DEL 8dff242e3a73444391638b74b03e3944=name!has
+End_Updated_Elements_Features_Versioning_System 
+Start_Deleted_Elements_Features_Versioning_System 
+3e5d985a5c084a61848f69d15cb76cb5::package->af6dd01c-307b-4445-b6fc-9ec5a69cd1a2,
+
+End_Deleted_Elements_Features_Versioning_System 
+Start_Added_Elements_Versioning_System
+element
+myFileEnd_Added_Elements_Versioning_System
+Start_Deleted_Elements_Versioning_System
+element
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Class xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmi:id="3e5d985a5c084a61848f69d15cb76cb5" name="Course" xmi:version="2.0"/>
+End_Deleted_Elements_Versioning_System

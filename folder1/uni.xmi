@@ -5,5 +5,4 @@
     <features xsi:type="OO:Reference" xmi:id="13db70a4781545df82c08f8244311541" name="has" type="790469be459e460e9cbeb701d54bdefa"/>
   </contents>
   <contents xsi:type="OO:Class" xmi:id="790469be459e460e9cbeb701d54bdefa" name="Student"/>
-  <contents xsi:type="OO:Class" xmi:id="d1e4c344099b44a2a3ddbdf329ee59e4" name="Course"/>
 </OO:Model>

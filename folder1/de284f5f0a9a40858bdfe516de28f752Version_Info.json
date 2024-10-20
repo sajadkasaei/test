@@ -1,0 +1,37 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "9f07b43a-f307-4ad9-9926-27bc726c924f",
+                "feature_name": "contents",
+                "feature_value": "86faf489-1298-45d1-8df8-36c1cae57c0f"
+            }
+        ]
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "affcad17-ac46-46d5-a72e-ae86eda4db9b",
+                "container_id": "9f07b43a-f307-4ad9-9926-27bc726c924f",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"affcad17-ac46-46d5-a72e-ae86eda4db9b\" name=\"course\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "package",
+                        "feature_value": "9f07b43a-f307-4ad9-9926-27bc726c924f"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "86faf489-1298-45d1-8df8-36c1cae57c0f"
+            }
+        ]
+    }
+]

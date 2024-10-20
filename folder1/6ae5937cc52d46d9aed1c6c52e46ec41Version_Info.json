@@ -1,0 +1,51 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "a442dab5b3ca4f7baf734849eea9e338",
+                "feature_name": "name",
+                "feature_value": "Professor"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "a442dab5b3ca4f7baf734849eea9e338",
+                "feature_name": "name",
+                "feature_value": "Teacher"
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "a442dab5b3ca4f7baf734849eea9e338",
+                "feature_name": "features",
+                "feature_value": "f006830b60ea42a8ac920f0061d81f73"
+            }
+        ]
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "b18b69f8bee24422b9031bad09e5fa96",
+                "container_id": "a442dab5b3ca4f7baf734849eea9e338",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Attribute xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"b18b69f8bee24422b9031bad09e5fa96\" name=\"birthday\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "a442dab5b3ca4f7baf734849eea9e338"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "f006830b60ea42a8ac920f0061d81f73"
+            }
+        ]
+    }
+]

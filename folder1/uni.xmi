@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="fa874cc8-449c-49a3-a861-624d54e49259" xmi:version="2.0">
+  <contents xsi:type="OO:Package" xmi:id="9f07b43a-f307-4ad9-9926-27bc726c924f" name="Education">
+    <contents xsi:type="OO:Class" xmi:id="8c4e3b67-77ff-4f91-a65c-3659ac52b8e0" name="teacher">
+      <features xsi:type="OO:Attribute" xmi:id="abaaa3c8-30fb-41c3-b090-840baec996ee" name="tName"/>
+    </contents>
+    <contents xsi:type="OO:Class" xmi:id="affcad17-ac46-46d5-a72e-ae86eda4db9b" name="course"/>
+  </contents>
+  <contents xsi:type="OO:Package" xmi:id="e70a8b46-3fdf-4c40-b1d9-38d2c4ce89ef" name="mm">
+    <contents xsi:type="OO:Class" xmi:id="498c117c-bb9c-495c-8b88-2ec3ef5b29eb" name="jigili"/>
+  </contents>
+</OO:Model>

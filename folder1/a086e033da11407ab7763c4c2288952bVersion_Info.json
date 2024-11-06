@@ -1,0 +1,24 @@
+[
+    {
+        "UPDATE": []
+    },
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "1c4d03d3-2056-4189-870d-a6998f09a7d7",
+                "container_id": "e5d3d71b-d223-4673-aa00-46c8c54e5ac5",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"1c4d03d3-2056-4189-870d-a6998f09a7d7\" firstName=\"John\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familySon",
+                        "feature_value": "e5d3d71b-d223-4673-aa00-46c8c54e5ac5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    }
+]

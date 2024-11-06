@@ -2,5 +2,4 @@
 <Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e5d3d71b-d223-4673-aa00-46c8c54e5ac5" xmi:version="2.0">
   <father xmi:id="213da709-1cb5-434a-88aa-eb4c328b0f3b" firstName="Bob"/>
   <mother xmi:id="3a52416a-e8e7-4866-88e1-842e912a05fc" firstName="Alice"/>
-  <sons xmi:id="1c4d03d3-2056-4189-870d-a6998f09a7d7" firstName="John"/>
 </Families:Family>

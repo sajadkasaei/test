@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e5d3d71b-d223-4673-aa00-46c8c54e5ac5" lastName="Trump" xmi:version="2.0">
   <father xmi:id="213da709-1cb5-434a-88aa-eb4c328b0f3b" firstName="Donald"/>
+  <mother xmi:id="0c21f6ac-09d3-4b5c-9ac4-fd14ae1bdaab" firstName="Malenia"/>
 </Families:Family>

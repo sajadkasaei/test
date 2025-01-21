@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
-  <contents xsi:type="OO:Class" xmi:id="f862712b-0381-4942-bd86-8ee1989663bf" name="Teacher"/>
-  <contents xsi:type="OO:Class" xmi:id="73f76839-e2ca-4b6d-895f-97d1eedac4bc" name="Student"/>
-</OO:Model>

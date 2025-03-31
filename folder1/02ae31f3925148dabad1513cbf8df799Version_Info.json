@@ -1,0 +1,26 @@
+[
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "4300e0c7-4e3a-41f0-9ea5-c6e0fc290c66",
+                "feature_name": "name",
+                "feature_value": "Professor"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "4300e0c7-4e3a-41f0-9ea5-c6e0fc290c66",
+                "feature_name": "name",
+                "feature_value": "Teacher"
+            }
+        ]
+    },
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    }
+]

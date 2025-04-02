@@ -1,0 +1,24 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "947189c3-9eb9-4693-acd9-8ba253d1fee7",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"947189c3-9eb9-4693-acd9-8ba253d1fee7\" firstName=\"Melania\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyMother",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": []
+    }
+]

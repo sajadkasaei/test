@@ -1,0 +1,19 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "06661f26-18d2-4da8-933d-567508812e6c",
+                "feature_name": "firstName",
+                "feature_value": "Melania"
+            }
+        ]
+    }
+]

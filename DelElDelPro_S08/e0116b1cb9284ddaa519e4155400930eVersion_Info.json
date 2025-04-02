@@ -1,0 +1,39 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "9b3746be-48ca-4c8e-8e97-ff497df6af60",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"9b3746be-48ca-4c8e-8e97-ff497df6af60\" firstName=\"Marla\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyMother",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "1029455e-b450-4696-8f12-92b4eeeee0b5",
+                "feature_name": "firstName",
+                "feature_value": ""
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "1029455e-b450-4696-8f12-92b4eeeee0b5",
+                "feature_name": "firstName",
+                "feature_value": "Donald Trump"
+            }
+        ]
+    }
+]
